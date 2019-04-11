@@ -1,6 +1,6 @@
 {
-  "name": "settle",
-  "version": "1.0.0",
+  "name": "@settle/base",
+  "version": "0.0.1",
   "description": "Settle is a payment gateway processor that will accept multiple gateways",
   "main": "lib/index.js",
   "scripts": {
